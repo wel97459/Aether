@@ -3,6 +3,7 @@
 
 #include "Aether/types/Colour.hpp"
 #include <functional>
+#include <cstdint>
 
 namespace Aether {
     /**
